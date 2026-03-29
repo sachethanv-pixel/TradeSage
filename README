@@ -1,0 +1,10 @@
+TradeSage is an AI-driven financial intelligence platform that utilizes Multi-Agent Systems and Retrieval-Augmented Generation (RAG) to provide real-time market insights. By combining autonomous agents with live data from sources like Yahoo Finance, it transforms raw market signals into actionable trading strategies through a conversational interface.
+
+Key Technical Highlights
+Multi-Agent Architecture: Features specialized ADK (Agent Development Kit) agents, including a Synthesis Agent for data processing and a Chat Agent for user interaction.
+
+RAG Implementation: Uses Retrieval-Augmented Generation to ground AI responses in actual financial documents and live market data.
+
+Cloud-Native Stack: Built with Python and JavaScript, containerized via Docker, and designed for seamless deployment on Google Cloud Platform (GCP) using Cloud Run and Cloud SQL.
+
+Live Data Integration: Built-in hooks for real-time financial data fetching and automated simulation testing.
