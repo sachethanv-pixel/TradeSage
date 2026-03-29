@@ -35,14 +35,6 @@ TradeSage is an advanced, AI-driven financial intelligence platform designed to 
 
 ---
 
-## 🔧 Getting Started
-
-### Prerequisites
-* Python 3.9+
-* Docker
-* GCP Account (for cloud deployment)
-
-### Local Setup
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/sachethanv-pixel/TradeSage.git](https://github.com/sachethanv-pixel/TradeSage.git)
